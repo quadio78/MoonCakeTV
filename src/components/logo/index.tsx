@@ -15,7 +15,7 @@ export const Logo = () => {
       >
         {siteName}
       </Link>
-      <Link href='https://github.com/mooncaketv/mooncaketv' target='_blank'>
+      <Link href='https://m.tusita.cyou' target='_blank'>
         <FaGithub className='w-6 h-6' />
       </Link>
     </div>
